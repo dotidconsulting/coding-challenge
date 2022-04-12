@@ -1,4 +1,4 @@
-If you choose to work on top of the provided solution, we expect you to demo
+We will expect you to demo and talk through your solution
 
 ### **Problem solving**
 
@@ -12,8 +12,5 @@ Think of a way to improve the code quality, then implement it. This could includ
 
 Think and implement a different approach that you may improve the performance.
 
-### **Innovation**
-
-Think of any part you would rewrite it in a different way and implement.
 
 # .id
